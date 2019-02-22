@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "io.eldermael.jhipster"
+    },
+    "jhipsterVersion": "5.8.1",
+    "applicationType": "microservice",
+    "baseName": "jhipster",
+    "packageName": "io.eldermael.jhipster",
+    "packageFolder": "io/eldermael/jhipster",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MmE3ZjUyMjk2M2JmMTcwMzZkNTU1NWQ3MzU0MWM1NjBiY2U5NDA0NmNiMDQ4MzA1YzU4NDUxYTQ1YzhkMGE5NDk4ZmY3YjBlZGRjYzNiMDljMjA0OGNhYjA4YjJlZjE2NzM4ZmJlZTM1MjJlZjlkZTczYWVkMjg4ZWViNTlkMDc=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
